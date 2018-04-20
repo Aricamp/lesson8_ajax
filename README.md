@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Hayden Ariotti
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project had me create a site that accesses a database on movies in order to teach me about APIs, JSON, and AJAX.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://aricamp.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. APIs are instructions to allow webpages to access to web tools, like Amazon listing appearing on other sites.
+2. Ajax is what allows webpages to actively display new content without having to refresh the whole page.
+3. JSON ios a standard that has been designed for and adopted by the JavaScripting community, used for transmitting data between a server and web applications.
